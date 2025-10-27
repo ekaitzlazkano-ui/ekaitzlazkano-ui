@@ -42,11 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaitzlazkano-ui&theme=github-dark-blue" alt="GitHub Streak" height="150"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes">
-</p>
 
 ---
 
