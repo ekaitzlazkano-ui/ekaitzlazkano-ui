@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 
-- 🎵 **EchoBeat** &nbsp; <img src="https://img.shields.io/badge/-Coming%20Soon-lightgrey?style=flat-square"/>
+- 🎵 **EchoBeat** &nbsp; <img src="https://github.com/OierZElo/proyecto_prog_aplicaciones.git"/>
 
 ---
 
