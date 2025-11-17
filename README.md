@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/Assembly-1E1E1E?style=for-the-badge"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaitzlazkano-ui&layout=compact)](https://github.com/anuraghazra/github-re
+
 ---
 
 ## 📈 GitHub Stats
@@ -48,3 +50,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=100&section=footer"/>
 </p>
+
+
