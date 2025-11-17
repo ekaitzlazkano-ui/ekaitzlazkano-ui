@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Assembly-1E1E1E?style=for-the-badge"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaitzlazkano-ui&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaitzlazkano-ui&layout=compact)
 
 ---
 
