@@ -1,55 +1,159 @@
-<!-- Profile Header with Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=200&section=header&text=Ekaitz%20Lazkano%20Blanco&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header"/>
-</p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/ekaitzlazkano-ui?v=4" width="140" style="border-radius: 50%;" alt="Ekaitz Lazkano Blanco"/>
-</p>
+<div align="center">
 
-<h2 align="center">Hi, I'm Ekaitz!</h2>
+# Hi there, I'm Ekaitz 👋
 
-<p align="center">
-  🎓 <b>Double degree:</b> Computer Engineering + Data Science & AI<br>
-  🏫 <b>University of Deusto</b><br>
-  🌍 <a href="https://www.linkedin.com/in/ekaitz-lazkano-blanco-b9505a328/">LinkedIn</a> | ekaitz.lazkano@opendeusto.es | 06ekaitzlb@gmail.com
-</p>
+### Computer Engineering & Data Science / AI Student
 
----
+**University of Deusto · Bilbao, Spain**
 
-## 🚀 Projects
+`Software Engineering` · `Machine Learning` · `Artificial Intelligence`
 
-- 🎵 **EchoBeat** &nbsp; <img src="https://github.com/OierZElo/proyecto_prog_aplicaciones.git"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ekaitzlazkano-ui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekaitz-lazkano-blanco-b9505a328)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:06ekaitzlb@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 Languages & Tools
+### `ekaitz@archlinux:~$ whoami`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VHDL-7C00A5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Assembly-1E1E1E?style=for-the-badge"/>
-   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+```yaml
+name: Ekaitz Lazkano Blanco
+location: Bizkaia, Spain
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaitzlazkano-ui&layout=compact) 
+education:
+  university: University of Deusto
+  degree:
+    - Computer Engineering
+    - Data Science & Artificial Intelligence
+  year: 3rd
+
+interests:
+  - Machine Learning
+  - Deep Learning
+  - Artificial Intelligence
+  - Software Engineering
+  - Linux & Open Source
+
+currently:
+  - Exploring ML algorithms and their applications
+  - Building personal projects
+  - Learning something new every day
+```
+
+### `ekaitz@archlinux:~$ cat about.md`
+
+I'm a third-year student pursuing a **Double Degree in Computer Engineering and Data Science & Artificial Intelligence** at the University of Deusto.
+
+I'm particularly interested in understanding how things work under the hood, from software architecture and operating systems to machine learning algorithms.
+
+I enjoy experimenting with new technologies, solving challenging problems and turning ideas into working projects.
+
+Currently exploring **Machine Learning, Deep Learning and software development**, while building my own projects and expanding my technical skills.
 
 ---
 
-## 📈 GitHub Stats
+### `ekaitz@archlinux:~$ ls ./tech-stack/`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekaitzlazkano-ui&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ekaitzlazkano-ui&theme=github-dark-blue" alt="GitHub Streak" height="150"/>
-</p>
+#### Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+#### Machine Learning & Data Science
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+`Regression` · `Classification` · `Clustering` · `PCA` · `Statistical Learning`
+
+#### Databases & Development
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+#### Operating Systems
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=100&section=footer"/>
-</p>
+### `ekaitz@archlinux:~$ ls ./projects/`
 
+#### 🪐 Exoplanet Statistical Analysis
 
+**R · Statistical Learning · Data Analysis**
+
+Academic project focused on exploring exoplanet datasets through statistical and machine learning techniques.
+
+- Linear and Logistic Regression
+- Principal Component Analysis (PCA)
+- Correspondence Analysis
+- K-Means and Hierarchical Clustering
+- Multivariate data exploration and pattern discovery
+
+#### 💬 Client-Server Social Network
+
+**C · C++ · Client-Server Architecture**
+
+Command-line social networking application built around a modular client-server architecture.
+
+- Client-server communication
+- Request-response interactions
+- Command-line interface
+- Modular software design
+
+#### 🎵 Music Management Application
+
+**Java · Swing · MySQL**
+
+Desktop application developed using Java Swing, combining graphical interfaces, database management and concurrent programming.
+
+- GUI development with Java Swing
+- MySQL database integration
+- Multithreading with Java Threads
+- Recursive song search algorithm
+
+> More projects and technical documentation coming as I continue building and publishing my work.
+
+---
+
+### `ekaitz@archlinux:~$ cat currently-learning.txt`
+
+```text
+[+] Machine Learning & Deep Learning
+[+] Model training and evaluation
+[+] Software architecture and algorithms
+[+] Building end-to-end technical projects
+[+] Exploring the Linux ecosystem
+```
+
+---
+
+### `ekaitz@archlinux:~$ git status`
+
+```diff
++ Always learning
++ Always building
++ Open to new challenges
+```
+
+<div align="center">
+
+**Thanks for visiting my GitHub profile!**
+
+*Feel free to explore my repositories or get in touch.*
+
+`ekaitz@archlinux:~$ exit`
+
+</div>
